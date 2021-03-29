@@ -38,7 +38,7 @@ At any point during execution, you can press `ctrl+c` on the terminal to prematu
   * No accidentals
   * The number of beats since the last chord is a float; 0.333 is a valid value
 
-See the [exmaples](./examples) folder for and idea of what this looks like.
+See the [examples](./examples) folder for and idea of what this looks like.
 
 ## Contributing
 
